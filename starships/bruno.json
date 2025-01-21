@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "SWAPI",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
